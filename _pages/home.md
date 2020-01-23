@@ -3,7 +3,7 @@ layout: splash
 permalink: /home/
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/AharonBrownForestParkFacebook.jpg
+  overlay_image: /assets/images/AharonSonBusiness.jpg
   actions:
     - label: "About Aharon"
       url: "/about/"
@@ -16,7 +16,7 @@ feature_row:
     url: "/impact/"
     btn_class: "btn--primary"
     btn_label: "Bringing change"
-  - image_path: /assets/images/AharonSonBusiness.jpg
+  - image_path: /assets/images/AharonBrownForestParkFacebook.jpg
     alt: "Priorities in line with yours"
     title: "Priorities in line with yours"
     excerpt: "I prioritize the most immediate and pressing concerns in our communities."
