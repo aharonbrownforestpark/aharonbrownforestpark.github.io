@@ -7,4 +7,5 @@ header:
   actions:
     - label: "About Aharon"
       url: "/about/"
+excerpt: Proudly representing Forest Lake. 
 ---
