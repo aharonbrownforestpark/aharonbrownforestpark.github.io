@@ -4,9 +4,9 @@ main:
     url: /about/
   - title: "Media"
     url: /media/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Contribute"
+    url: /contribute/
+  - title: "Vote"
+    url: /vote/
   # - title: "Sitemap"
   #   url: /sitemap/
