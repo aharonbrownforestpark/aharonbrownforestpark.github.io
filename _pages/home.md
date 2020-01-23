@@ -11,7 +11,7 @@ excerpt: Proudly representing Forest Lake.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Super customizable"
+    title: "Presence and impact"
     excerpt: "Making an impact at the state and local level."
     url: "/impact/"
     btn_class: "btn--primary"
