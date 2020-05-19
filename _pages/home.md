@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/AharonSonBusiness.jpg
   actions:
-    - label: "About Aharon"
+    - label: "About Aharon Brown"
       url: "/about/"
 excerpt: Proudly representing Forest Lake.
 feature_row:
