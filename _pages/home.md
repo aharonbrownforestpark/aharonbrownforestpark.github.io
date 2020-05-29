@@ -7,7 +7,7 @@ header:
   actions:
     - label: "About Aharon Brown"
       url: "/about/"
-excerpt: Proudly representing Forest Lake.
+excerpt: Proudly representing Forest Park.
 feature_row:
   - image_path: /assets/images/AharonBrownDavidPepper.jpg
     alt: "customizable"
