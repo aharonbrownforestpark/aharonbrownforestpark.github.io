@@ -1,12 +1,13 @@
 ---
 permalink: /about/
-  - image_path: /assets/images/AharonBrownAbout.JPG
-    alt: "Meet Aharon"
-    title: "Meet Aharon"
 title: "Meet Aharon"
 layout: single
 toc: false
 ---
+
+  - image_path: /assets/images/AharonBrownAbout.JPG
+    alt: "Meet Aharon"
+    title: "Meet Aharon"
 
 Aharon Brown is the proud son of a working mother and grandmother currently residing in Forest Park, Ohio. He is a graduate of Miami University with a Bachelor of Arts Degree in Political Science/Criminal Justice and an Associate of Arts in Social Science. He holds a master’s degree from the University of Cincinnati in Community Planning specializing in Community and Economic Development. Seeing the fallout across communities from the 2008 Recession and Foreclosure Crisis Aharon focused his graduate studies on housing affordability. As a graduate student he spent the summer working for a community development corporation working on surveying all vacant and abandoned property in an effort to create more affordable housing throughout Hamilton County. This research was used to inform the City of Cincinnati and Hamilton County’s housing affordability initiatives.
 
