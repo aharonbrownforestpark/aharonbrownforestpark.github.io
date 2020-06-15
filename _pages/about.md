@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/AharonSonBusiness.jpg
+  - image_path: /assets/images/AharonBrownAbout.JPG
+    alt: "Meet Aharon"
+    title: "Meet Aharon"
 title: "Meet Aharon"
 layout: single
 toc: false
