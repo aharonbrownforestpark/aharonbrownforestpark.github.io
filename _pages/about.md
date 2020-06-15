@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 header:
-  overlay_image: /assets/images/AharonBrownAbout.jpg
+  overlay_image: /assets/images/AharonBrownAbout.JPG
 title: "About Aharon Brown"
 layout: single
 toc: false
