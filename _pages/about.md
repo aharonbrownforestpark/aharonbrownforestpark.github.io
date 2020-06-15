@@ -2,9 +2,8 @@
 permalink: /about/
 header:
   overlay_image: /assets/images/AharonSonBusiness.jpg
-title: "About"
+title: "About Aharon Brown"
 layout: single
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 toc: false
 ---
 
