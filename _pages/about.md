@@ -3,7 +3,7 @@ permalink: /about/
 header:
   overlay_image: /assets/images/AharonSonBusiness.jpg
 title: "About Aharon Brown"
-layout: single
+layout: double
 toc: false
 ---
 
