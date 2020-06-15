@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/AharonSonBusiness.jpg
 title: "COVID-19 Resources"
 layout: single
-toc: false
+toc: true
 ---
 
 * Winton Woods City Schools launched its [Mobile Meals program](https://www.wintonwoods.org/Content2/summermeals) to provide free meals and beverages to students 
