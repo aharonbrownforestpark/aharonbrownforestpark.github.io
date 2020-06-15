@@ -1,8 +1,7 @@
 ---
 permalink: /about/
-header:
-  overlay_image: /assets/images/AharonBrownAbout.JPG
-title: "About Aharon Brown"
+![Meet Aharon](https://raw.githubusercontent.com/aharonbrownforestpark/aharonbrownforestpark.github.io/master/assets/images/AharonBrownAbout.JPG)
+title: "Meet Aharon Brown"
 layout: single
 toc: false
 ---
