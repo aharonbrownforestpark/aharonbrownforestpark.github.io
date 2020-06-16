@@ -9,8 +9,8 @@ toc: true
 toc_label: "Table of Contents"
 ---
 
-* Winton Woods City Schools launched its [Mobile Meals program](https://www.wintonwoods.org/Content2/summermeals) to provide free meals and beverages to students 
-over the summer recess.
+## Winton Woods City Schools 
+Launched its [Mobile Meals program](https://www.wintonwoods.org/Content2/summermeals) to provide free meals and beverages to students over the summer recess.
 
 * The Hamilton County Courthouse has resumed hearing housing cases as of June 8th. 
 If you or anyone you know is facing eviction proceedings [a new eviction help center](https://www.wvxu.org/post/evictions-expected-skyrocket-center-aims-help-renters-landlords#stream/0) in Hamilton County is providing 
