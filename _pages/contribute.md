@@ -1,8 +1,5 @@
 ---
 permalink: /contribute/
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/AharonSonBusiness.jpg
 title: "Donate"
 layout: single
 toc: false
