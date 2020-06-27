@@ -26,8 +26,8 @@ feature_row:
   - image_path: /assets/images/AharonBrownTwipu.jpg
     alt: "100% free"
     title: "Get involved"
-    excerpt: "Thank you for your help - it wouldn't have been possible without you. Let's do it again next fall."
-    url: "/docs/license/"
+    excerpt: "Thank you for your help - it wouldn't have been possible without you. There is still so much to do - let's get in touch!"
+    url: "mailto:volunteer@aharonbrown.com?subject=Volunteering"
     btn_class: "btn--primary"
     btn_label: "Volunteer"      
 ---
