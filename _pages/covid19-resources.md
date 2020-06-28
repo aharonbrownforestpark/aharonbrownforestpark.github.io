@@ -9,6 +9,9 @@ toc: true
 toc_label: "Table of Contents"
 ---
 
+## Hamilton County Public Health
+Has a [site](https://www.hamiltoncountyhealth.org/covid19/) with resources, including testing sites in Hamilton County and FAQs. 
+
 ## Winton Woods City Schools 
 Launched its [Mobile Meals program](https://www.wintonwoods.org/Content2/summermeals) to provide free meals and beverages to students over the summer recess.
 
