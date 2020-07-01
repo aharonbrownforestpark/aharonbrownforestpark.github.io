@@ -1,7 +1,8 @@
 ---
+title: Policies
+layout: collection
 permalink: /policies/
-title: "Aharon's Platform"
-layout: single
+collection: portfolio
 entries_layout: grid
 ---
 
