@@ -3,9 +3,9 @@ title: Policies
 layout: collection
 permalink: /policies/
 ---
-
-## Policing
-Aharon above all wants Forest Park citizens to be happy, healthy and feeling safe where in their city. Aharon supports smart, safe, and equitable policing in Forest Park.
+feature_row:
+ ## Policing
+ Aharon above all wants Forest Park citizens to be happy, healthy and feeling safe where in their city. Aharon supports smart, safe, and equitable policing in Forest Park.
 
 ## School
 Aharon advocates for and supports public schools, especially the Winton Woods City Schools.
