@@ -1,7 +1,7 @@
 ---
 permalink: /policies/
 title: "Aharon's Platform"
-layout: collection
+layout: single
 toc: false
 ---
 
