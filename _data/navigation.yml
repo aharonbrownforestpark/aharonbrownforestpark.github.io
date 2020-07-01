@@ -2,8 +2,6 @@
 main:
   - title: "Meet Aharon"
     url: /about/
-  - title: "Policies"
-    url: /policies/
   - title: "Media"
     url: /media/
   - title: "Contribute"
