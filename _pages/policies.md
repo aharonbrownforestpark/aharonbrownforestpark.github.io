@@ -2,7 +2,6 @@
 title: Policies
 layout: collection
 permalink: /policies/
-collection: portfolio
 entries_layout: grid
 ---
 
