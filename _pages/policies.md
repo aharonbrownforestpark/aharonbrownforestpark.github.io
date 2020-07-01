@@ -2,8 +2,6 @@
 title: Policies
 layout: collection
 permalink: /policies/
-entries_layout: grid
-class: wide
 --
     
 ## Policing
