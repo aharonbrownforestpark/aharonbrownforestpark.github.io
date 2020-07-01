@@ -1,6 +1,5 @@
 ---
 title: Policies
-layout: collection
 permalink: /policies/
 --
     
