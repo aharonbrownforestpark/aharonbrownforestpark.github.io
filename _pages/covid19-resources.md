@@ -9,8 +9,6 @@ toc: true
 toc_label: "Table of Contents"
 ---
 
-### It's important that we all lend our part to a healthy Forest Park! This is a page of resources for testing sites, COVID-19 information, and other resources that might be useful to help you keep your family and friends safe.
-
 ## Today's Testing Sites
 July 1st: Testing is being conducted at the Forest Chapel Methodist Church. More info is [here](https://www.facebook.com/forest.park.1253/posts/3149965148395128).
 
