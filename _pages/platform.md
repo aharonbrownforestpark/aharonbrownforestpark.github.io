@@ -1,5 +1,5 @@
 ---
-permalink: /policies/
+permalink: /platform/
 title: "Aharon's Platform"
 layout: single
 ---
