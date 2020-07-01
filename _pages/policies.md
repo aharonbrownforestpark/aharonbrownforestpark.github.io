@@ -1,7 +1,6 @@
 ---
-title: Portfolio
+permalink: /policies/
+title: "Aharon's Platform"
 layout: collection
-permalink: /portfolio/
-collection: portfolio
-entries_layout: grid
+toc: false
 ---
