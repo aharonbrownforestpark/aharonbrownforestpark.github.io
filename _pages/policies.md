@@ -4,11 +4,7 @@ layout: collection
 permalink: /policies/
 entries_layout: grid
 class: wide
-
-feature_row:
-  - image_path: /assets/images/AharonBrownAbout.jpg
-    title: "Policing"
-    excerpt: "Aharon above all wants Forest Park citizens to be happy, healthy and feeling safe where in their city. Aharon supports smart, safe, and equitable policing in Forest Park."
+--
     
 ## Policing
 Aharon above all wants Forest Park citizens to be happy, healthy and feeling safe where in their city. Aharon supports smart, safe, and equitable policing in Forest Park.
@@ -30,7 +26,3 @@ Aharon supports the right of every worker to unionize and join a union in the wo
 
 ## Tenant Rights
 Aharon supports the policies outlined in the current Ohio tenant-landlord code, which grants tenants the right to a return of their security deposit, fair housing, and notice before landlord entry. Aharon also believes that tenants should not be evicted in instances of financial hardship or extenuating circumstances, such as COVID-19.
-
----
-
-{% include feature_row %}
