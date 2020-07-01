@@ -1,6 +1,7 @@
 ---
-title: Policies
 permalink: /policies/
+title: "Aharon's Platform"
+layout: single
 --
     
 ## Policing
