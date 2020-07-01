@@ -2,7 +2,7 @@
 permalink: /policies/
 title: "Aharon's Platform"
 layout: single
-toc: false
+entries_layout: grid
 ---
 
 ## Policing
