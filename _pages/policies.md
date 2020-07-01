@@ -4,9 +4,9 @@ layout: collection
 permalink: /policies/
 entries_layout: grid
 class: wide
+
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - image_path: /assets/images/AharonBrownAbout.jpg
     title: "Policing"
     excerpt: "Aharon above all wants Forest Park citizens to be happy, healthy and feeling safe where in their city. Aharon supports smart, safe, and equitable policing in Forest Park."
     
