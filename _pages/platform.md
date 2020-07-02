@@ -2,6 +2,9 @@
 permalink: /platform/
 title: "Aharon's Platform"
 layout: single
+toc: true
+toc_label: "Aharon's Policies"
+toc_icon: "democrat"
 ---
     
 ## Policing
