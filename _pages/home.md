@@ -11,11 +11,11 @@ excerpt: Proudly representing Forest Park.
 feature_row:
   - image_path: /assets/images/AharonBrownDavidPepper.jpg
     alt: "customizable"
-    title: "Presence and impact"
-    excerpt: "Making an impact at the state and local level."
-    url: "/impact/"
+    title: "COVID-19 Resources"
+    excerpt: "Keep you and your family safe."
+    url: "/covid19-resources/"
     btn_class: "btn--primary"
-    btn_label: "Bringing change"
+    btn_label: "Resources"
   - image_path: /assets/images/AharonBrownForestParkFacebook.jpg
     alt: "Priorities in line with yours"
     title: "Priorities in line with yours"
