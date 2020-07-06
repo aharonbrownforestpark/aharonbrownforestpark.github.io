@@ -1,6 +1,6 @@
 ---
 permalink: /platform/
-title: "Aharon's Platform"
+title: "Aharon's Policies"
 layout: single
 toc: true
 toc_label: "Aharon's Policies"
