@@ -9,7 +9,7 @@ header:
       url: "/about/"
 excerpt: Proudly representing Forest Park.
 feature_row:
-  - image_path: /assets/images/AharonBrownDavidPepper.jpg
+  - image_path: /assets/images/covid.jpeg
     alt: "customizable"
     title: "COVID-19 Resources"
     excerpt: "Keep you and your family safe."
