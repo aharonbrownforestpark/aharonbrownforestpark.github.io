@@ -1,7 +1,7 @@
 ---
 permalink: /policies/
 title: "Aharon's Policies"
-layout: single
+layout: splash
 --- 
 row_1:
   - image_path: /assets/images/covid.jpeg
