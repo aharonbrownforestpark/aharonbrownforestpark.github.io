@@ -2,9 +2,8 @@
 permalink: /policies/
 title: "Aharon's Policies"
 layout: single
----
-    
-feature_row:
+--- 
+row_1:
   - image_path: /assets/images/covid.jpeg
     alt: "customizable"
     title: "COVID-19 Resources"
@@ -28,4 +27,4 @@ feature_row:
     btn_label: "Volunteer"      
 ---
 
-{% include feature_row %}
+{% include row_1 %}
