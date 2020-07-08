@@ -49,7 +49,7 @@ feature_row2:
     url: "/policies/unions"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-feature_row2:
+feature_row3:
   - image_path: /assets/images/AharonTenant.png
     alt: "customizable"
     title: "Tenant Rights"
