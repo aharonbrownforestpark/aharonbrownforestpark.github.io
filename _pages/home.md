@@ -20,7 +20,7 @@ feature_row:
     alt: "Priorities in line with yours"
     title: "Priorities in line with yours"
     excerpt: "I prioritize the most immediate and pressing concerns in our communities."
-    url: "/docs/layouts/"
+    url: "/policies/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/AharonBrownTwipu.jpg
