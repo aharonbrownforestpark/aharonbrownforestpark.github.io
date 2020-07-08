@@ -2,7 +2,7 @@
 permalink: /policies/
 title: "Aharon's Policies"
 title: "Aharon's Policies"
-layout: single
+layout: splash
 toc: false
 classes: wide
 feature_row:
