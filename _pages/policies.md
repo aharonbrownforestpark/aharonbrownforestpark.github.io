@@ -49,7 +49,16 @@ feature_row2:
     url: "/policies/unions"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
+feature_row2:
+  - image_path: /assets/images/AharonTenant.png
+    alt: "customizable"
+    title: "Tenant Rights"
+    excerpt: "Aharon supports the policies outlined in the current Ohio tenant-landlord code."
+    url: "/policies/tenants/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
-{% include feature_row type="center" %}
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row %}
+{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row3" %}
