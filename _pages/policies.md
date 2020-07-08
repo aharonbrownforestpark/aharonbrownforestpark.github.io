@@ -3,11 +3,7 @@ permalink: /policies/
 title: "Aharon's Policies"
 title: "Aharon's Policies"
 layout: single
-toc: true
-toc_label: "Aharon's Policies"
-toc_icon: "democrat"
----
-    
+toc: false
 feature_row:
   - image_path: /assets/images/covid.jpeg
     alt: "customizable"
@@ -30,6 +26,6 @@ feature_row:
     url: "mailto:volunteer@aharonbrown.com?subject=Volunteering"
     btn_class: "btn--primary"
     btn_label: "Volunteer"      
---
+---
 
 {% include feature_row %}
