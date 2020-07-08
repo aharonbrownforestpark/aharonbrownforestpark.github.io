@@ -1,24 +1,35 @@
----
-permalink: /platform/
-title: "Aharon's Platform"
+--
+permalink: /policies/
+title: "Aharon's Policies"
 title: "Aharon's Policies"
 layout: single
 toc: true
 toc_label: "Aharon's Policies"
 toc_icon: "democrat"
----
+--
     
-## Policing
-Aharon above all wants Forest Park citizens to be happy, healthy and feeling safe where in their city. Aharon supports smart, safe, and equitable policing in Forest Park.
-## School
-Aharon advocates for and supports public schools, especially the Winton Woods City Schools.
-## Environment
-Aharon supports good, sustainable environmental policy in Forest Park, and supports the upkeep of city parks and nature areas.
-## Economy
-Aharon is an advocate for local businesses in Forest Park and supports future economic growth and development in the city through avenues such as specialized businesses and tourism.
-## Infrastructure
-Aharon supports making Forest Park a place where everyone is proud to call it home. This includes supporting the upkeep of city buildings, roads, and less attended to areas.
-## Union and Labor Representation
-Aharon supports the right of every worker to unionize and join a union in the workplace. He believes that every worker should have a say in that decision made that could affect their livelihood, and that they should be properly represented.
-## Tenant Rights
-Aharon supports the policies outlined in the current Ohio tenant-landlord code, which grants tenants the right to a return of their security deposit, fair housing, and notice before landlord entry. Aharon also believes that tenants should not be evicted in instances of financial hardship or extenuating circumstances, such as COVID-19.
+feature_row:
+  - image_path: /assets/images/covid.jpeg
+    alt: "customizable"
+    title: "COVID-19 Resources"
+    excerpt: "Keep you and your family safe."
+    url: "/covid19-resources/"
+    btn_class: "btn--primary"
+    btn_label: "Resources"
+  - image_path: /assets/images/AharonBrownForestParkFacebook.jpg
+    alt: "Priorities in line with yours"
+    title: "Priorities in line with yours"
+    excerpt: "I prioritize the most immediate and pressing concerns in our communities."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/AharonBrownTwipu.jpg
+    alt: "100% free"
+    title: "Get involved"
+    excerpt: "Thank you for your help - it wouldn't have been possible without you. There is still so much to do - let's get in touch!"
+    url: "mailto:volunteer@aharonbrown.com?subject=Volunteering"
+    btn_class: "btn--primary"
+    btn_label: "Volunteer"      
+--
+
+{% include feature_row %}
