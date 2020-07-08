@@ -4,7 +4,7 @@ title: "Aharon's Policies"
 title: "Aharon's Policies"
 layout: single
 toc: false
-row_1:
+feature_row:
   - image_path: /assets/images/AharonPolice.png
     alt: "customizable"
     title: "Policing"
@@ -28,4 +28,4 @@ row_1:
     btn_label: "Learn more"      
 ---
 
-{% include row_1 %}
+{% include feature_row %}
