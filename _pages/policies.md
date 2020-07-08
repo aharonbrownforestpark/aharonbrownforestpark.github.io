@@ -51,5 +51,5 @@ feature_row2:
     btn_label: "Learn more"  
 ---
 
-{% include feature_row %}
-{% include feature_row id="feature_row2" %}
+{% include feature_row type="center" %}
+{% include feature_row id="feature_row2" type="center" %}
