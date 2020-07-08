@@ -1,4 +1,4 @@
---
+---
 permalink: /policies/
 title: "Aharon's Policies"
 title: "Aharon's Policies"
@@ -6,7 +6,7 @@ layout: single
 toc: true
 toc_label: "Aharon's Policies"
 toc_icon: "democrat"
---
+---
     
 feature_row:
   - image_path: /assets/images/covid.jpeg
