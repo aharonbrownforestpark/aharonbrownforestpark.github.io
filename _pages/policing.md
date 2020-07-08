@@ -1,5 +1,5 @@
 ---
-permalink: /policies/policing
+permalink: /policies/policing/
 title: "Policing"
 layout: single
 toc: false
