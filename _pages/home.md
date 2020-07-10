@@ -14,7 +14,7 @@ feature_row:
     title: "COVID-19 Resources"
     excerpt: "Keep you and your family safe.
     
-    "
+      "
     url: "/covid19-resources/"
     btn_class: "btn--primary"
     btn_label: "Resources"
@@ -23,7 +23,7 @@ feature_row:
     title: "Priorities in line with yours"
     excerpt: "I prioritize the most immediate and pressing concerns in our communities.
     
-    "
+      "
     url: "/policies/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
