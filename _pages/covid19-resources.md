@@ -10,10 +10,13 @@ toc_label: "Table of Contents"
 ---
 
 ## Today's Testing Sites
-July 1st: Testing is being conducted at the Forest Chapel Methodist Church. More info is [here](https://www.facebook.com/forest.park.1253/posts/3149965148395128).
+Please see [here](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/resources/general-resources/get-tested-for-covid-19-infographic) for more information about future pop up testing sites.
 
 ## Hamilton County Public Health
 Has a [site](https://www.hamiltoncountyhealth.org/covid19/) with resources, including testing sites in Hamilton County and FAQs. 
+
+## Hamilton County CARES Rent and Utility Relief Program
+Hamilton County Commissioners are offering rent relief to families who have lost income due to COVID-19. Click [here](https://www.hamiltoncountyohio.gov/about/news/rent_and_utility_relief_program_launches)
 
 ## Winton Woods City Schools 
 Launched its [Mobile Meals program](https://www.wintonwoods.org/Content2/summermeals) to provide free meals and beverages to students over the summer recess.
