@@ -2,7 +2,7 @@
 title: "Statement on Investigation of Ohio House Speaker Larry Householder"
 categories:
 tags:
-author-profile: false
+author_profile: false
 ---
 
 The events today regarding the federal investigation into Speaker of the House Larry Householder on charges of bribery come as a tremendous shock to all Ohioans. 
