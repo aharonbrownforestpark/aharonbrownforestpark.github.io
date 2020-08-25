@@ -4,8 +4,10 @@ categories:
 tags:
 author_profile: false
 ---
-/This opinion piece from Aharon, co-written with Jill Meyer, P.G. Sittenfeld, and Celeste Treece, originally was published in the Cincinnati Enquirer on August
-19th, 2020. To view the original article, [click here.](https://www.cincinnati.com/story/opinion/2020/08/19/opinion-transit-levy-make-us-stronger/5576576002/)/
+This opinion piece from Aharon, co-written with Jill Meyer, P.G. Sittenfeld, and Celeste Treece, originally was published in the Cincinnati Enquirer on August
+19th, 2020. To view the original article, [click here.](https://www.cincinnati.com/story/opinion/2020/08/19/opinion-transit-levy-make-us-stronger/5576576002/)
+
+--
 
 For the first time in history, the residents of Hamilton County voted to support public transit, infrastructure and the communities those services connect by 
 passing Issue 7. This win is a ray of hope in the midst of the pandemic and is in line with the calls for racial  justice and equality that our country must act 
@@ -51,5 +53,7 @@ Absolutely nothing seems normal or right as we deal with disease, economic distr
 our investment in a transit system that meets the needs of our community will help us emerge stronger with every resident having more access to build greater 
 prosperity.
 
-/Aharon Brown is a member of Forest Park City Council. Jill P. Meyer is president and CEO of the Cincinnati USA Regional Chamber. 
-P.G. Sittenfeld is a member of Cincinnati City Council. Celeste Treece is the director of government relations for CommEN Strategies./
+--
+
+Aharon Brown is a member of Forest Park City Council. Jill P. Meyer is president and CEO of the Cincinnati USA Regional Chamber. 
+P.G. Sittenfeld is a member of Cincinnati City Council. Celeste Treece is the director of government relations for CommEN Strategies.
