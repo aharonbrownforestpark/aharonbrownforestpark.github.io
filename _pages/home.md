@@ -3,7 +3,7 @@ layout: splash
 permalink: /home/
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/A. Brown.JPG
+  overlay_image: /assets/images/ABrown.JPG
   actions:
     - label: "About Aharon Brown"
       url: "/about/"
