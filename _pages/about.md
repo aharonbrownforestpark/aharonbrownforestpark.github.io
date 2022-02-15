@@ -6,7 +6,7 @@ toc: false
 ---
 
 <p align="center">
-  <img width="460" height="300" src="/assets/ABrown.JPG">
+  <img width="460" height="300" src="/assets/images/AharonBrownAbout.jpg">
 </p>
 
 
