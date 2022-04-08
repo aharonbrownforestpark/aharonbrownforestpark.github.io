@@ -3,7 +3,7 @@ layout: splash
 permalink: /home/
 header:
   overlay_color: "#0A7F62"
-  overlay_image: /assets/images/AharonBrownMainTry.png
+  overlay_image: /assets/images/AharonBrownMain.png
   actions:
       url: "/about/"
 excerpt: Proudly representing Forest Park. 
