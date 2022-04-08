@@ -5,7 +5,6 @@ header:
   overlay_color: "#0A7F62"
   overlay_image: /assets/images/AharonBrownMainTry.png
   actions:
-  - label: "About Aharon Brown"
       url: "/about/"
 excerpt: Proudly representing Forest Park. 
 feature_row:
