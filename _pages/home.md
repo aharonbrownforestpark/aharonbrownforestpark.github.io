@@ -17,7 +17,7 @@ feature_row:
     url: "/covid19-resources/"
     btn_class: "btn--primary"
     btn_label: "Resources"
-  - image_path: /assets/images/AharonBrownForestParkFacebook.jpg
+  - image_path: /assets/images/ABrownOpening.jpg
     alt: "Priorities in line with yours"
     title: "Priorities in line with yours"
     excerpt: "I prioritize the most immediate and pressing concerns in our communities.
