@@ -14,7 +14,7 @@ feature_row:
     excerpt: "Keep you and your family safe.
     
       "
-    url: "/covid19-resources/"
+    url: "[/covid19-resources/](https://www.cdc.gov/coronavirus/2019-ncov/more/index.html)"
     btn_class: "btn--primary"
     btn_label: "Resources"
   - image_path: /assets/images/ABrownOpening.jpg
