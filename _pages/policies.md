@@ -6,10 +6,10 @@ layout: splash
 toc: false
 classes: wide
 feature_row:
-  - image_path: /assets/images/AharonPolice.png
+  - image_path: /assets/images/AharonHousing.png
     alt: "customizable"
-    title: "Policing"
-    excerpt: "Aharon supports smart, safe, and equitable policing in Forest Park."
+    title: "Housing"
+    excerpt: "Aharon is a tremendous advocate for safe, affordable, and quality housing for everyone."
     url: "/policies/policing/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
