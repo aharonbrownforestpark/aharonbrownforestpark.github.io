@@ -10,7 +10,7 @@ feature_row:
     alt: "customizable"
     title: "Housing"
     excerpt: "Aharon is a tremendous advocate for safe, affordable, and quality housing for everyone."
-    url: "/policies/policing/"
+    url: "/policies/housing/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/AharonSchool.png
